@@ -1,3 +1,7 @@
+<details>
+<summary>PGP Public Key</summary>
+<br>
+  
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -51,3 +55,5 @@ qZ/zb9buHqU2cM44EExK+zg=
 =W5m3
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+</details>
